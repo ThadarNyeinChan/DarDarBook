@@ -252,7 +252,8 @@ img{
 
 .logo span{
     display: table-cell;
-    animation: animate 1s 12;
+    animation: animate 1s 10;
+    animation-delay: 5s;
 }
 @keyframes animate{
     0%{
