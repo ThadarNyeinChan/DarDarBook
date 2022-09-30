@@ -123,8 +123,8 @@ img{
 
 .menu-container{
     position: absolute;
-    top: 40vh;
-    right: 25vw;
+    top: 94vh;
+    right: 5vw;
     background: transparent;
     width:200px;
     height: 200px;
@@ -1093,6 +1093,8 @@ Media Query for small tablets and mobile phones
 
     main .container .middle{
         grid-column: 1/3;
+        padding-right: 0.7rem;
+        padding-left: 0.3rem;
     }
 
     main .container .right{
